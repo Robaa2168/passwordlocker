@@ -10,10 +10,10 @@ Password Locker is a terminal run python application that allows users to store 
 ## User Stories
 The user would like to.... :
 * To create an account for the application or log into the application.
-* Store my existing acounts login details for various accounts that i have registered for.
-* Generate new password for an account that i haven't registered for and store it with the account name.   
-* Delete stored account login details that i do now want anymore.
-* Copy my credentials to the clipboard
+* Store existing acounts login details for various accounts.
+* Generate new password for an account that is yet to be registered and store it with the account name.   
+* Delete stored account login details.
+* Copy credentials to the clipboard
 
 
 ## Installation / Setup instruction
@@ -27,9 +27,9 @@ The user would like to.... :
 
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/Owiti-Charles/Password-Locker.git```
+* git clone ```https://github.com/Robaa2168/passwordlocker.git```
 
-* cd Password-Locker
+* cd PasswordLocker
 
 * code . or atom . based on the text editor you have.
 
@@ -39,7 +39,7 @@ The user would like to.... :
         
         python run.py
 * To run test for the application
-        $ python creditentials_test.py
+        python creditentials_test.py
 
 ## Behaviour Driven Development
 | Behaviour | Input | Output |
