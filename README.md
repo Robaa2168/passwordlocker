@@ -19,9 +19,9 @@ The user would like to.... :
 ## Installation / Setup instruction
 
 #### The application requires the following installations to operate 
-* python3.6
-* pyperclip
+* python3.9
 * pip
+* pyperclip
 
 #### Cloning
 
@@ -36,10 +36,10 @@ The user would like to.... :
 ### Running the Application
 * To run the application, open the cloned file in terminal and run the following commands:
 
-        $ chmod +x interface.py
-        $ ./interface.py
+        
+        python run.py
 * To run test for the application
-        $ python3 passlock_test.py
+        $ python creditentials_test.py
 
 ## Behaviour Driven Development
 | Behaviour | Input | Output |
