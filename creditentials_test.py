@@ -1,6 +1,3 @@
-import unittest
-from creditentials import User
-from creditentials import Credentials
 
 class TestClass(unittest.TestCase):
     """
