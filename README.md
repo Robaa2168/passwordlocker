@@ -1,19 +1,19 @@
 # Password-Locker
 ## Author
 
-[ROBERT_ KIPKOECH](https://github.com/Robaa2168/passwordlocker.git)
+> [ROBERT_ KIPKOECH](https://github.com/Robaa2168/passwordlocker.git)
 
 ## Description
 
-Password Locker is a terminal run python application that allows users to store details i.e. usernames and passwords of their various accounts. It also stores the passwords and generates a unique password for a user if they do not want to generate new passwords by themselves
+> Password Locker is a terminal run python application that allows users to store details i.e. usernames and passwords of their various accounts. It also stores the passwords and generates a unique password for a user if they do not want to generate new passwords by themselves
 
 ## User Stories
-The user would like to.... :
-* To create an account for the application or log into the application.
-* Store existing acounts login details for various accounts.
-* Generate new password for an account that is yet to be registered and store it with the account name.   
-* Delete stored account login details.
-* Copy credentials to the clipboard
+> The user would like to.... :
+> * To create an account for the application or log into the application.
+> * Store existing acounts login details for various accounts.
+> * Generate new password for an account that is yet to be registered and store it with the account name.   
+> * Delete stored account login details.
+> * Copy credentials to the clipboard
 
 
 ## Installation / Setup instruction
